@@ -19,17 +19,17 @@ This script was used to generate the Monocyte (MON), Neutrophil (NEU),
 and Whole Blood (WB) Weighted Gene Co-Expression Network Analyses
 (WGCNA) Networks for Carmona-Mora et al’s “Monocyte, Neutrophil and
 Whole Blood Transcriptome Dynamics Following Ischemic Stroke”
-publication. This study analyzed changes in the dyamics of the
-peripheral blood transcriptome of human Ishcemic Stroke patients. If
+publication. This study analyzed changes in the dynamics of the
+peripheral blood transcriptome of human Ischemic Stroke patients. If
 this script is used, please cite the above paper.
 
 # Running the Script
 
 Study analyses were run using Microsoft R Open 4.0.2
 
-By default, the script has the required parameters to recreate the MON
-Network. Commented in are the parameters required to generate the NEU
-and WB networks (only two places need modification: beta1 and kCut).
+By default, the script has the required parameters to recreate the MON (monocyte)
+Network. Commented in are the parameters required to generate the NEU (neutrophil)
+and WB (whole blood) networks (only two places need modification: beta1 and kCut).
 Various output files will also need name changes
 (“DynamicsOfIS\_MON\_Network” to “DynamicsOfIS\_NEU\_Network”, etc).
 Input data file name will need to be modified.
