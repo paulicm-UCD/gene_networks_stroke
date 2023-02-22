@@ -10,8 +10,8 @@ Ischemic Stroke**
 Paulina Carmona-Mora, Bodie Knepp, Glen C Jickling, Xinhua Zhan, Marisa
 Hakoupian, Heather Hull, Noor Alomar, Hajar Amini, Frank R Sharp,
 Boryana Stamova, Bradley P Ander  
-medRxiv 2022.03.03.22271866; doi:
-<https://doi.org/10.1101/2022.03.03.22271866>
+BMC Med 21, 65 (2023). https://doi.org/10.1186/s12916-023-02766-1
+https://doi.org/10.1186/s12916-023-02766-1
 
 # Overview
 
